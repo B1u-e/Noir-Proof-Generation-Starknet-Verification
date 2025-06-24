@@ -3,7 +3,9 @@
 This is a Noir+Garaga+Starknet starter with in-browser proving and a step-by-step guide how to:
 - Generate and deploy UltraHonk proof verifier contract to Starknet devnet and deploy to public testnet
 
-![图片展示](img/前端页面展示.jpg)
+<p align="center">
+  <img src="img/前端页面展示.jpg" width="300" alt="图片展示">
+</p>
 
 
 ## Install
